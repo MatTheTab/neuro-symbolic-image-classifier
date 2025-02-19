@@ -21,6 +21,6 @@ Project for a neuro-symbolic Image classifier utilizing a neural network and a r
 ```
 
 ## Live Demo
-To run the Streamlit Demo simply click the link [here](https://neuro-symbolic-image-classifier-lix6pwwt9wnezutxgkkcks.streamlit.app). <\br>
-Or if you would rather see the Gradio Demo on Google Colab, then click the link below. <\br>
-To run the Gradio App Demo simply run this [notebook](https://colab.research.google.com/drive/1sIqVZL0FMISa4IXHp_psQ1B2hZnT7-hh?usp=sharing). <\br>
+To run the Streamlit Demo simply click the link [here](https://neuro-symbolic-image-classifier-lix6pwwt9wnezutxgkkcks.streamlit.app).  
+Or if you would rather see the Gradio Demo on Google Colab, then click the link below.  
+To run the Gradio App Demo simply run this [notebook](https://colab.research.google.com/drive/1sIqVZL0FMISa4IXHp_psQ1B2hZnT7-hh?usp=sharing).  
